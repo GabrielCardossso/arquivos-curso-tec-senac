@@ -1,0 +1,10 @@
+# Compilados Java
+*.class
+bin/
+target/
+out/
+
+# Configuração local de IDE
+.vscode/
+.idea/
+*.iml

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="279" viewBox="0 0 1200 279" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="333" viewBox="0 0 1200 333" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
 <title id="title">Sobre arquivos-curso-tec-senac</title>
-<desc id="desc">Projetos, exercícios e práticas desenvolvidos durante o curso Técnico em Desenvolvimento de Sistemas no SENAC.</desc>
+<desc id="desc">Projetos, exercícios e práticas desenvolvidos durante o curso Técnico em Desenvolvimento de Sistemas no SENAC, reunidos para registrar minha evolução: lógica de programação, POO em Java, banco de dados e back-end com Spring Boot.</desc>
 <style>
 .mono{font-family:'JetBrains Mono', 'Cascadia Code', 'Fira Code', Consolas, 'DejaVu Sans Mono', 'Courier New', monospace}
 text{shape-rendering:auto}
@@ -8,11 +8,11 @@ text{shape-rendering:auto}
 <defs>
 <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><rect width="2" height="2" fill="#ffffff" opacity=".06"/></pattern>
 <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".22"/></pattern>
-<clipPath id="card"><rect width="1200" height="279" rx="10"/></clipPath>
+<clipPath id="card"><rect width="1200" height="333" rx="10"/></clipPath>
 </defs>
 <g clip-path="url(#card)">
-<rect width="1200" height="279" fill="#191817"/>
-<rect width="1200" height="279" fill="url(#grid)"/>
+<rect width="1200" height="333" fill="#191817"/>
+<rect width="1200" height="333" fill="url(#grid)"/>
 <rect width="1200" height="40" fill="#262422"/>
 <rect y="40" width="1200" height="1" fill="#3a3733"/>
 <rect x="20" y="14" width="12" height="12" fill="#e5534b"/>
@@ -21,15 +21,17 @@ text{shape-rendering:auto}
 <text x="600" y="25" text-anchor="middle" class="mono" font-size="14" fill="#86817a">sobre.md</text>
 <rect x="48" y="78" width="10" height="10" fill="#d97757"/>
 <text x="70" y="88" class="mono" font-size="18" font-weight="700" fill="#ece9e4">Sobre o projeto</text>
-<text x="70" y="122" class="mono" font-size="16" fill="#b7b2aa" xml:space="preserve">Projetos, exercícios e práticas desenvolvidos durante o curso<tspan font-weight="700" fill="#ece9e4"> Técnico</tspan><tspan font-weight="700" fill="#ece9e4"> em</tspan><tspan font-weight="700" fill="#ece9e4"> Desenvolvimento</tspan><tspan font-weight="700" fill="#ece9e4"> de</tspan><tspan font-weight="700" fill="#ece9e4"> Sistemas</tspan> no<tspan font-weight="700" fill="#ece9e4"> SENAC</tspan>.</text>
-<rect x="48" y="153" width="1104" height="1" fill="#3a3733"/>
-<rect x="72" y="174" width="7" height="7" fill="#d97757"/>
-<text x="92" y="183" class="mono" font-size="15" fill="#b7b2aa" xml:space="preserve">Atividades de sala e exercícios práticos de programação</text>
-<rect x="72" y="204" width="7" height="7" fill="#d97757"/>
-<text x="92" y="213" class="mono" font-size="15" fill="#b7b2aa" xml:space="preserve"><tspan font-weight="700" fill="#ece9e4">Java</tspan>,<tspan font-weight="700" fill="#ece9e4"> JavaScript</tspan>,<tspan font-weight="700" fill="#ece9e4"> HTML</tspan>,<tspan font-weight="700" fill="#ece9e4"> CSS</tspan> e<tspan font-weight="700" fill="#ece9e4"> PostgreSQL</tspan></text>
-<rect x="72" y="234" width="7" height="7" fill="#d97757"/>
-<text x="92" y="243" class="mono" font-size="15" fill="#b7b2aa" xml:space="preserve">Organizado por módulo · Técnico em Desenvolvimento de Sistemas · SENAC</text>
-<rect width="1200" height="279" fill="url(#scan)"/>
+<text x="70" y="122" class="mono" font-size="16" fill="#b7b2aa" xml:space="preserve">Projetos, exercícios e práticas desenvolvidos durante o curso<tspan font-weight="700" fill="#ece9e4"> Técnico</tspan><tspan font-weight="700" fill="#ece9e4"> em</tspan><tspan font-weight="700" fill="#ece9e4"> Desenvolvimento</tspan><tspan font-weight="700" fill="#ece9e4"> de</tspan><tspan font-weight="700" fill="#ece9e4"> Sistemas</tspan> no<tspan font-weight="700" fill="#ece9e4"> SENAC</tspan>,</text>
+<text x="70" y="149" class="mono" font-size="16" fill="#b7b2aa" xml:space="preserve">reunidos para registrar minha evolução:<tspan font-weight="700" fill="#ece9e4"> lógica</tspan><tspan font-weight="700" fill="#ece9e4"> de</tspan><tspan font-weight="700" fill="#ece9e4"> programação</tspan>,<tspan font-weight="700" fill="#ece9e4"> POO</tspan><tspan font-weight="700" fill="#ece9e4"> em</tspan><tspan font-weight="700" fill="#ece9e4"> Java</tspan>,<tspan font-weight="700" fill="#ece9e4"> banco</tspan><tspan font-weight="700" fill="#ece9e4"> de</tspan><tspan font-weight="700" fill="#ece9e4"> dados</tspan> e<tspan font-weight="700" fill="#ece9e4"> back-end</tspan><tspan font-weight="700" fill="#ece9e4"> com</tspan></text>
+<text x="70" y="176" class="mono" font-size="16" fill="#b7b2aa" xml:space="preserve"><tspan font-weight="700" fill="#ece9e4">Spring</tspan><tspan font-weight="700" fill="#ece9e4"> Boot</tspan>.</text>
+<rect x="48" y="207" width="1104" height="1" fill="#3a3733"/>
+<rect x="72" y="228" width="7" height="7" fill="#d97757"/>
+<text x="92" y="237" class="mono" font-size="15" fill="#b7b2aa" xml:space="preserve">Atividades de sala, exercícios práticos e avaliações</text>
+<rect x="72" y="258" width="7" height="7" fill="#d97757"/>
+<text x="92" y="267" class="mono" font-size="15" fill="#b7b2aa" xml:space="preserve"><tspan font-weight="700" fill="#ece9e4">Portugol</tspan>,<tspan font-weight="700" fill="#ece9e4"> Java</tspan>,<tspan font-weight="700" fill="#ece9e4"> SQL</tspan><tspan font-weight="700" fill="#ece9e4"> (PostgreSQL)</tspan> e<tspan font-weight="700" fill="#ece9e4"> Spring</tspan><tspan font-weight="700" fill="#ece9e4"> Boot</tspan></text>
+<rect x="72" y="288" width="7" height="7" fill="#d97757"/>
+<text x="92" y="297" class="mono" font-size="15" fill="#b7b2aa" xml:space="preserve">Organizado por módulo · Técnico em Desenvolvimento de Sistemas · SENAC</text>
+<rect width="1200" height="333" fill="url(#scan)"/>
 </g>
-<rect x=".5" y=".5" width="1199" height="278" rx="9.5" fill="none" stroke="#3a3733"/>
+<rect x=".5" y=".5" width="1199" height="332" rx="9.5" fill="none" stroke="#3a3733"/>
 </svg>

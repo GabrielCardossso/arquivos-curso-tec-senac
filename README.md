@@ -1,10 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0066FF&height=120&section=header&text=Téc.%20Dev.%20de%20Sistemas&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img src="./.github/readme/header.svg" width="100%" alt="arquivos-curso-tec-senac: Técnico em Desenvolvimento de Sistemas" />
 
-<p align="center">
-Repositório dedicado aos conteúdos, exercícios e projetos desenvolvidos durante o curso Técnico em Desenvolvimento de Sistemas no SENAC.
-</p>
+<img src="./.github/readme/sobre.svg" width="100%" alt="Sobre o projeto: Projetos, exercícios e práticas desenvolvidos durante o curso Técnico em Desenvolvimento de Sistemas no SENAC." />
 
----
 
 ## 🚀 Sobre o repositório
 
